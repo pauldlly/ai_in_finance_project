@@ -11,9 +11,10 @@ Fill in the following information.
 - **Project Title:** [Insert project title]
 - **Group Name:** [Insert group name]
 - **Group Members:**  
-  - Student 1 – [Name]  
-  - Student 2 – [Name]  
-  - Student 3 – [Name]
+  - Student 1 – DAILY Paul  
+  - Student 2 – ROUDAUT Antoine
+  - Student 3 – EL Takly Charbel
+  - Student 4 - EL ALOUFIR Rada Mohammed
 
 - **Course Name:** AI In Finance
 - **Instructor:** Nicolas De Roux & Mohamed EL FAKIR
